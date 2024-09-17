@@ -1,1 +1,1 @@
-those repo make to do course by Yandex
+this repo was made for the works of the Yandex
